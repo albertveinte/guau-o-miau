@@ -1,0 +1,33 @@
+body{
+    background : radial-gradient(circle, rgba(251,63,63,1) 0%, rgba(239,172,78,1) 8%, rgba(215,230,89,1) 14%, rgba(90,221,129,1) 20%, rgba(89,212,200,1) 26%, rgba(112,87,202,1) 33%, rgba(141,85,189,1) 42%, rgba(178,83,139,1) 50%, rgba(179,80,99,1) 62%, rgba(198,77,77,1) 72%, rgba(214,154,75,1) 80%, rgba(231,227,73,1) 89%, rgba(106,239,72,1) 93%, rgba(70,252,216,1) 100%);
+}
+header_div{
+    background:  linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    color: rgb(251,63,63);;
+}
+
+.header_div p{
+    font-family: "Quicksand", sans-serif;
+    color:rgb(69, 69, 69);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color:rgb(54, 16, 90);
+    bottom: 0px;
+    width: 100%;
+    background-color: rgba(102, 182, 239, 0.676);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
